@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Raycast_Gumdrop_F" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="raycastvf_2" prefix_auto="1" extension_auto="1" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-Os" />
+					<Add option="-O3" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Linker>
+			<Add library="bgi" />
+			<Add library="gdi32" />
+			<Add library="comdlg32" />
+			<Add library="uuid" />
+			<Add library="oleaut32" />
+			<Add library="ole32" />
+		</Linker>
+		<Unit filename="raiztri.h" />
+		<Unit filename="raycastvf.cpp" />
+		<Unit filename="vectorlib\funcionesvectores.h" />
+		<Unit filename="vectorlib\libreriavector.h" />
+		<Unit filename="vectorlib\matriz33.h" />
+		<Unit filename="vectorlib\matriz44.h" />
+		<Unit filename="vectorlib\vector2.h" />
+		<Unit filename="vectorlib\vector3.h" />
+		<Unit filename="vectorlib\vector4.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

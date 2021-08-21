@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1628378069 source:d:\code\gumdrop_revival\raycastvf.cpp
+	<winbgim.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"raiztri.h"
+	"vectorlib/libreriavector.h"
+
+1628377593 d:\code\gumdrop_revival\raiztri.h
+	<complex>
+
+1628327459 d:\code\gumdrop_revival\vectorlib\libreriavector.h
+	"funcionesvectores.h"
+
+1628327256 d:\code\gumdrop_revival\vectorlib\funcionesvectores.h
+	"vector4.h"
+
+1628327279 d:\code\gumdrop_revival\vectorlib\vector4.h
+	"vector3.h"
+
+1628327267 d:\code\gumdrop_revival\vectorlib\vector3.h
+	"vector2.h"
+
+1628327364 d:\code\gumdrop_revival\vectorlib\vector2.h
+
+1628378069 source:d:\code\graph-old-classes\gumdrop_revival\raycastvf.cpp
+	<winbgim.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"raiztri.h"
+	"vectorlib/libreriavector.h"
+
+1628377593 d:\code\graph-old-classes\gumdrop_revival\raiztri.h
+	<complex>
+
+1628327459 d:\code\graph-old-classes\gumdrop_revival\vectorlib\libreriavector.h
+	"funcionesvectores.h"
+
+1628327256 d:\code\graph-old-classes\gumdrop_revival\vectorlib\funcionesvectores.h
+	"vector4.h"
+
+1628327279 d:\code\graph-old-classes\gumdrop_revival\vectorlib\vector4.h
+	"vector3.h"
+
+1628327267 d:\code\graph-old-classes\gumdrop_revival\vectorlib\vector3.h
+	"vector2.h"
+
+1628327364 d:\code\graph-old-classes\gumdrop_revival\vectorlib\vector2.h
+
